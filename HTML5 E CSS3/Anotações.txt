@@ -1,0 +1,38 @@
+Site tinypng.com comprimi os arquivos para reduzir o tamanho e é útil
+
+----------------------------------------------------------------------
+
+<ul> Ordem dos números não é importante
+Item 1
+Item 2
+
+<ol> Ordem dos números é importante 
+1. Item 1
+2. Item 3
+
+<li> Item dessa lista
+
+---------------------------------------------------------------------
+
+CSS3
+
+IDS de classes podem representar qualquer tipo de elemento
+
+EM HTML:
+
+- Se declara ID com a palavra ID e CLASSE com a palavra CLASS
+
+EM CSS:
+
+- Se declara ID com # e CLASSE com . 
+
+- ID só pode ser usado uma vez na página 
+
+----------------------------------------------------------------------
+
+SELETORES
+
+Regra css é formada por seletor/grupo de seletores: são elementos de HTML
+
+
+ 
